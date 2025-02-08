@@ -1,6 +1,6 @@
 module.exports = {
     token: "Your token here",
-    prefix: "Your prefix here"
+    prefix: "?"
 };
 
 /* remove .example from the name of this file */
